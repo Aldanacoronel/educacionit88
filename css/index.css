@@ -1,0 +1,12 @@
+@font-face {
+    font-family: miestilo ;
+    src: url("../fuentes/Lemon1.otf");
+    font-weight: 500;
+}
+h1{
+    font-family: miestilo;
+    font-weight: 500;
+}
+@media screen {
+    
+}
